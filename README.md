@@ -45,7 +45,4 @@
 ### :file_folder: Portfolio
 
 <a href="http://ahn960516.dothome.co.kr" target="_blank"><img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
-![image](http://ahn960516.dothome.co.kr/)
-
-![image](http://ahn960516.dothome.co.kr/assets/163381676/1e755a55-1148-4bfe-8979-951d7f739943)
 
